@@ -1,0 +1,17 @@
+C:\Users\Matt\Desktop\TextAnalyzerGUI\TextAnalyzerGUI\bin\Debug\net6.0-windows\TextAnalyzerGUI.exe
+C:\Users\Matt\Desktop\TextAnalyzerGUI\TextAnalyzerGUI\bin\Debug\net6.0-windows\TextAnalyzerGUI.deps.json
+C:\Users\Matt\Desktop\TextAnalyzerGUI\TextAnalyzerGUI\bin\Debug\net6.0-windows\TextAnalyzerGUI.runtimeconfig.json
+C:\Users\Matt\Desktop\TextAnalyzerGUI\TextAnalyzerGUI\bin\Debug\net6.0-windows\TextAnalyzerGUI.dll
+C:\Users\Matt\Desktop\TextAnalyzerGUI\TextAnalyzerGUI\bin\Debug\net6.0-windows\TextAnalyzerGUI.pdb
+C:\Users\Matt\Desktop\TextAnalyzerGUI\TextAnalyzerGUI\obj\Debug\net6.0-windows\TextAnalyzerGUI.csproj.AssemblyReference.cache
+C:\Users\Matt\Desktop\TextAnalyzerGUI\TextAnalyzerGUI\obj\Debug\net6.0-windows\TextAnalyzerGUI.csproj.GenerateResource.cache
+C:\Users\Matt\Desktop\TextAnalyzerGUI\TextAnalyzerGUI\obj\Debug\net6.0-windows\TextAnalyzerGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\Desktop\TextAnalyzerGUI\TextAnalyzerGUI\obj\Debug\net6.0-windows\TextAnalyzerGUI.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\TextAnalyzerGUI\TextAnalyzerGUI\obj\Debug\net6.0-windows\TextAnalyzerGUI.AssemblyInfo.cs
+C:\Users\Matt\Desktop\TextAnalyzerGUI\TextAnalyzerGUI\obj\Debug\net6.0-windows\TextAnalyzerGUI.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\TextAnalyzerGUI\TextAnalyzerGUI\obj\Debug\net6.0-windows\TextAnalyzerGUI.dll
+C:\Users\Matt\Desktop\TextAnalyzerGUI\TextAnalyzerGUI\obj\Debug\net6.0-windows\refint\TextAnalyzerGUI.dll
+C:\Users\Matt\Desktop\TextAnalyzerGUI\TextAnalyzerGUI\obj\Debug\net6.0-windows\TextAnalyzerGUI.pdb
+C:\Users\Matt\Desktop\TextAnalyzerGUI\TextAnalyzerGUI\obj\Debug\net6.0-windows\TextAnalyzerGUI.genruntimeconfig.cache
+C:\Users\Matt\Desktop\TextAnalyzerGUI\TextAnalyzerGUI\obj\Debug\net6.0-windows\ref\TextAnalyzerGUI.dll
+C:\Users\Matt\Desktop\TextAnalyzerGUI\TextAnalyzerGUI\obj\Debug\net6.0-windows\TextAnalyzerGUI.frmTextAnalyzer.resources
